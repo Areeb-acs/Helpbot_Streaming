@@ -10,3 +10,4 @@ langchain-groq
 langchainhub
 PyPDF2
 langchain-groq
+uvicorn
