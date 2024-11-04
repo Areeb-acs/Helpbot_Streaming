@@ -11,3 +11,4 @@ langchainhub
 PyPDF2
 langchain-groq
 uvicorn
+fastapi
