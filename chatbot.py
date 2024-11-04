@@ -71,6 +71,12 @@ async def get_chatgroq_response(question, chat_history):
     answer = llm(flow_messages)
     return answer.content
 
+
+@app.get("/")
+async def get_root():
+    return {"message": "Welcome to the RCM Chatbot!"}
+
+
 @app.post("/chat")
 async def chat_endpoint(request: Request):
     data = await request.json()
