@@ -12,3 +12,4 @@ PyPDF2
 langchain-groq
 pinecone
 ijson
+uvicorn
