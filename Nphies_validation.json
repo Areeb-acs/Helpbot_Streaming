@@ -1,0 +1,300 @@
+{
+    "Nphies Rules and Codes- OBA": [
+      {
+        "Rule ID": "BV-00001",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "CoverageEligibilityResponse.insurance.extension.notInForceReason",
+        "Description": "notInForceReason SHALL be required if insurance inforce is not in force",
+        "Display": "notInForceReason is not provided when Insurance is not in force",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20220419
+      },
+      {
+        "Rule ID": "BV-00002",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "Claim.careTeam.sequence",
+        "Description": "Claim care team sequence SHALL be unique within a claim",
+        "Display": "Claim care team sequence is not unique within the submitted claim",
+        "Check for EBP": "YES",
+        "Rule Publishing Date": 20210101
+      },
+      {
+        "Rule ID": "BV-00003",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "ClaimResponse.request",
+        "Description": "ClaimResponse - ClaimResponse.request SHALL refer to the related existing claim request",
+        "Display": "ClaimResponse request field refers to a non-existent claim request",
+        "Check for EBP": "YES",
+        "Rule Publishing Date": 20210101
+      },
+      {
+        "Rule ID": "BV-00004",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.productOrService",
+        "Description": "Claim - claim.item.detail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/dental-billing) adopted by nphies if Claim.type=oral",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00005",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.productOrService",
+        "Description": "Claim - claim.item.detail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/institutional-billing) adopted by nphies if Claim.type=institutional",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00006",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.productOrService",
+        "Description": "Claim - claim.item.detail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/pharmacy-billing) adopted by nphies if Claim.type=pharmacy",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00007",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.productOrService",
+        "Description": "Claim - claim.item.detail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/professional-billing) adopted by nphies if Claim.type=professional",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00008",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.productOrService",
+        "Description": "Claim - claim.item.detail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/vision-billing) adopted by nphies if Claim.type=vision",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00009",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.subdetail.productOrService",
+        "Description": "Claim - claim.item.detail.subdetail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/dental-billing) adopted by nphies if Claim.type=oral",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00010",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.subdetail.productOrService",
+        "Description": "Claim - claim.item.detail.subdetail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/institutional-billing) adopted by nphies if Claim.type=institutional",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00011",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.subdetail.productOrService",
+        "Description": "Claim - claim.item.detail.subdetail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/pharmacy-billing) adopted by nphies if Claim.type=pharmacy",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00012",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.subdetail.productOrService",
+        "Description": "Claim - claim.item.detail.subdetail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/professional-billing) adopted by nphies if Claim.type=professional",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00013",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.detail.subdetail.productOrService",
+        "Description": "Claim - claim.item.detail.subdetail.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/vision-billing) adopted by nphies if Claim.type=vision",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00014",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.productOrService",
+        "Description": "Claim - claim.item.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/dental-billing) adopted by nphies if Claim.type=oral",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00015",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.productOrService",
+        "Description": "Claim - claim.item.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/institutional-billing) adopted by nphies if Claim.type=institutional",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00016",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.productOrService",
+        "Description": "Claim - claim.item.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/pharmacy-billing) adopted by nphies if Claim.type=pharmacy",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00017",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.productOrService",
+        "Description": "Claim - claim.item.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/professional-billing) adopted by nphies if Claim.type=professional",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00018",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "claim.item.productOrService",
+        "Description": "Claim - claim.item.productOrService SHALL be a valid code from the (http://nphies.sa/terminology/ValueSet/vision-billing) adopted by nphies if Claim.type=vision",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210310
+      },
+      {
+        "Rule ID": "BV-00019",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "ClaimResponse.item.sequence",
+        "Description": "ClaimResponse item SHALL correspond to an existing item sequence in the related claim",
+        "Display": "ClaimResponse item is not corresponding to an existing item sequence in the related claim request",
+        "Check for EBP": "YES",
+        "Rule Publishing Date": 20210101,
+        "Rule Update Date": 20210606
+      },
+      {
+        "Rule ID": "BV-00020",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "ClaimResponse",
+        "Description": "ClaimResponse.item SHALL be required and not empty if ClaimResponse.outcome=\"complete\"",
+        "Display": "ClaimResponse item is not provided when ClaimResponse outcome=\"complete\"",
+        "Check for EBP": "YES",
+        "Rule Publishing Date": 20210101,
+        "Rule Update Date": 20210726
+      },
+      {
+        "Rule ID": "BV-00021",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "ClaimResponse.payment",
+        "Description": "ClaimResponse.payment SHALL exist only if claim.use=claim",
+        "Display": "ClaimResponse payment is provided even when Claim use is not \"claim\"",
+        "TMB Version": "v1.2.875",
+        "Rule Publishing Date": 20210101,
+        "Rule Update Date": 20210606,
+        "Rule Deactivation Date": 44803,
+        "OBA Release Date": 44811,
+        "Production Release Date": 44825
+      },
+      {
+        "Rule ID": "BV-00022",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "ClaimResponse.total",
+        "Description": "ClaimResponse.total SHALL be required if Claim.use=Claim and ClaimResponse.outcome=\"complete\"",
+        "Display": "ClaimResponse total is not provided when Claim use is \"claim\" and ClaimResponse outcome is \"complete\"",
+        "Check for EBP": "NO",
+        "Rule Publishing Date": 20210101,
+        "Rule Update Date": 20210530
+      },
+      {
+        "Rule ID": "BV-00023",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "ClaimResponse.total",
+        "Description": "When Claim.use is either \"preauthorization\" or \"claim\" and ClaimResponse.outcome is not equal to \"error\" then ClaimResponse.total SHALL be provided",
+        "Display": "ClaimResponse total is not provided when ClaimResponse outcome is not equal to error",
+        "TMB Version": "v1.2.877_1",
+        "Check for EBP": "YES",
+        "Rule Publishing Date": 20210101,
+        "Rule Update Date": "19/10/2022",
+        "OBA Release Date": 45196
+      },
+      {
+        "Rule ID": "BV-00024",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "PaymentReconciliation.detail.request",
+        "Description": "detail.request SHALL refer to an existing submitted claim",
+        "Display": "PaymentReconciliation detail request does not refer to an existing submitted claim",
+        "Check for EBP": "NO",
+        "Rule Publishing Date": 20210101
+      },
+      {
+        "Rule ID": "BV-00025",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "ClaimResponse.item.detail.Sequence",
+        "Description": "ClaimResponse - detailSequence in the claim response SHALL be unique within the claim response.item",
+        "Display": "ClaimResponse item detailSequence in claim response is not unique within the ClaimResponse item",
+        "Check for EBP": "YES",
+        "Rule Publishing Date": 20210101
+      },
+      {
+        "Rule ID": "BV-00026",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "ClaimResponse.item.detail.Sequence",
+        "Description": "ClaimResponse - detailSequence in the claim response SHALL match item.detail.sequence within the claim.item when Claim.item.extension.package=\"false\"",
+        "Display": "ClaimResponse detailSequence does not match the Claim item detail sequence when no package is used",
+        "Check for EBP": "NO",
+        "Rule Publishing Date": 20210101,
+        "Rule Update Date": 20210907
+      },
+      {
+        "Rule ID": "BV-00027",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "Claim.diagnosis.onAdmission",
+        "Description": "diagnosis.onAdmission field SHALL be required only if claim type is Institutional",
+        "Display": "Claim diagnosis onAdmission is required for institutional claim type but is not to be used for non-institutional claim type",
+        "Check for EBP": "NO",
+        "Rule Publishing Date": 20210101,
+        "Rule Update Date": 20210811
+      },
+      {
+        "Rule ID": "BV-00028",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "CoverageEligibilityResponse.request",
+        "Description": "Eligibility response request SHALL refer to the related existing Eligibility request.",
+        "Display": "CoverageElibilityResponse request field does not refer to an existing eligibility request instance",
+        "Check for EBP": "NO",
+        "Rule Publishing Date": 20210101
+      },
+      {
+        "Rule ID": "BV-00029",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "Claim.diagnosis.onAdmission",
+        "Description": "Claim - Field Used only if the claim type is institutional ",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210606
+      },
+      {
+        "Rule ID": "BV-00030",
+        "Rule Type": "BV",
+        "Rule Type Description": "Business and Validation Rule",
+        "Rule Related Message/Resource/Element": "Claim.fundsReserve",
+        "Description": "Field Used only if the claim use is Authorization",
+        "Display": "Claim fundsReserve field is used when the Claim use is not authorization",
+        "Rule Publishing Date": 20210101,
+        "Rule Deactivation Date": 20210818
+      }
+    ]
+  }

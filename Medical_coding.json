@@ -1,0 +1,972 @@
+[
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 1,
+      "Code Display value": "Medical Care",
+      "CodeDefinition": "Medical Care.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 10,
+      "Code Display value": "Endodontics",
+      "CodeDefinition": "Endodontics.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 11,
+      "Code Display value": "Maxillofacial Prosthetics",
+      "CodeDefinition": "Maxillofacial Prosthetics.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 12,
+      "Code Display value": "Adjunctive Dental Services",
+      "CodeDefinition": "Adjunctive Dental Services.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 13,
+      "Code Display value": "Health Benefit Plan Coverage",
+      "CodeDefinition": "Health Benefit Plan Coverage.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 14,
+      "Code Display value": "Dental Care",
+      "CodeDefinition": "Dental Care.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 15,
+      "Code Display value": "Dental Crowns",
+      "CodeDefinition": "Dental Crowns.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 16,
+      "Code Display value": "Dental Accident",
+      "CodeDefinition": "Dental Accident.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 17,
+      "Code Display value": "Hospital Room and Board",
+      "CodeDefinition": "Hospital Room and Board.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 18,
+      "Code Display value": "Major Medical",
+      "CodeDefinition": "Major Medical.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 19,
+      "Code Display value": "Medically Related Transportation",
+      "CodeDefinition": "Medically Related Transportation.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 2,
+      "Code Display value": "Surgical",
+      "CodeDefinition": "Surgical.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 20,
+      "Code Display value": "In-vitro Fertilization",
+      "CodeDefinition": "In-vitro Fertilization.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 21,
+      "Code Display value": "MRI Scan",
+      "CodeDefinition": "MRI Scan.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 22,
+      "Code Display value": "Donor Procedures",
+      "CodeDefinition": "Donor Procedures such as organ harvest.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 23,
+      "Code Display value": "Maternity",
+      "CodeDefinition": "Maternity.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 24,
+      "Code Display value": "Renal Dialysis",
+      "CodeDefinition": "Renal dialysis.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 25,
+      "Code Display value": "Medical Coverage",
+      "CodeDefinition": "Medical Coverage.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 26,
+      "Code Display value": "Dental Coverage",
+      "CodeDefinition": "Dental Coverage.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 27,
+      "Code Display value": "Hearing Coverage",
+      "CodeDefinition": "Hearing Coverage.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 28,
+      "Code Display value": "Vision Coverage",
+      "CodeDefinition": "Vision Coverage.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 29,
+      "Code Display value": "Mental Health",
+      "CodeDefinition": "Mental Health",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 3,
+      "Code Display value": "Consultation",
+      "CodeDefinition": "Consultation.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 30,
+      "Code Display value": "OP Medical",
+      "CodeDefinition": "OP Medical",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 31,
+      "Code Display value": "Max Copay",
+      "CodeDefinition": "Max Copay",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 32,
+      "Code Display value": "Medical Equipment",
+      "CodeDefinition": "Medical Equipment",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 33,
+      "Code Display value": "Acute Psychiatric Cases",
+      "CodeDefinition": "Acute Psychiatric Cases",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 34,
+      "Code Display value": "Chronic Psychiatric Cases",
+      "CodeDefinition": "Chronic Psychiatric Cases",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 35,
+      "Code Display value": "Alzheimer's Disease",
+      "CodeDefinition": "Alzheimer's Disease",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 36,
+      "Code Display value": "Infertility & Related Procedures",
+      "CodeDefinition": "Infertility & Related Procedures",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 37,
+      "Code Display value": "Orthodontic Treatment",
+      "CodeDefinition": "Orthodontic Treatment",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 38,
+      "Code Display value": "Check ups",
+      "CodeDefinition": "Check ups",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 39,
+      "Code Display value": "Circumcision of male newborn",
+      "CodeDefinition": "Circumcision of male newborn",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 4,
+      "Code Display value": "Diagnostic XRay",
+      "CodeDefinition": "Diagnostic XRay.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 40,
+      "Code Display value": "Ear Piercing of female newborn",
+      "CodeDefinition": "Ear Piercing of female newborn",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 41,
+      "Code Display value": "Dental Prosthesis",
+      "CodeDefinition": "Dental Prosthesis",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 42,
+      "Code Display value": "Vision Surgery",
+      "CodeDefinition": "Vision Surgery",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 43,
+      "Code Display value": "Outpatient Treatment expenses-within minimum unified network",
+      "CodeDefinition": "Outpatient Treatment expenses-within minimum unified network",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 44,
+      "Code Display value": "Outpatient Treatment expenses-for hospital out of the minimum unified network",
+      "CodeDefinition": "Outpatient Treatment expenses-for hospital out of the minimum unified network",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 45,
+      "Code Display value": "Outpatient Treatment expenses-for non-hospital out of the minimum unified network",
+      "CodeDefinition": "Outpatient Treatment expenses-for non-hospital out of the minimum unified network",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 46,
+      "Code Display value": "Companion Room and Board",
+      "CodeDefinition": "Companion Room and Board",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 47,
+      "Code Display value": "Repatriation of Mortal Remains",
+      "CodeDefinition": "Repatriation of Mortal Remains",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 48,
+      "Code Display value": "Acquired valvular heart disease",
+      "CodeDefinition": "Acquired valvular heart disease",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 49,
+      "Code Display value": "Autism Management",
+      "CodeDefinition": "Autism Management",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 5,
+      "Code Display value": "Diagnostic Lab",
+      "CodeDefinition": "Diagnostic Lab.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 50,
+      "Code Display value": "Disability Compensations",
+      "CodeDefinition": "Disability Compensations",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 51,
+      "Code Display value": "Obesity Surgery",
+      "CodeDefinition": "Obesity Surgery",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 52,
+      "Code Display value": "Newborn Screening Programs for Hearing Impairment & critical congenital heart disease",
+      "CodeDefinition": "Newborn Screening Programs for Hearing Impairment & critical congenital heart disease",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 53,
+      "Code Display value": "Home Healthcare",
+      "CodeDefinition": "Home Healthcare",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 54,
+      "Code Display value": "Long term care",
+      "CodeDefinition": "Long term care",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 55,
+      "Code Display value": "Rehabilitation",
+      "CodeDefinition": "Rehabilitation",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 56,
+      "Code Display value": "Pharmacy",
+      "CodeDefinition": "Pharmacy",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 57,
+      "Code Display value": "OP Prescribed Invented Medicines - with generic alternative",
+      "CodeDefinition": "OP Prescribed Invented Medicines - with generic alternative",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 58,
+      "Code Display value": "Advanced Dental Coverage",
+      "CodeDefinition": "Advanced Dental Coverage with RCT",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 59,
+      "Code Display value": "Advanced Homecare coverage",
+      "CodeDefinition": "Advanced Homecare coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 6,
+      "Code Display value": "Renal Supplies",
+      "CodeDefinition": "Renal Supplies excluding Dialysis.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 60,
+      "Code Display value": "Advanced Obesity Medical Management",
+      "CodeDefinition": "Advanced Obesity Medical Management",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 61,
+      "Code Display value": "Basic and Preventive Dental Coverage",
+      "CodeDefinition": "Basic and Preventive Dental Coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 62,
+      "Code Display value": "Basic Homecare coverage",
+      "CodeDefinition": "Basic Homecare coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 63,
+      "Code Display value": "Contraception Coverage (Birth Control)",
+      "CodeDefinition": "Contraception Coverage (Birth Control)",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 64,
+      "Code Display value": "Hip and Knee Replacement",
+      "CodeDefinition": "Hip and Knee Replacement",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 65,
+      "Code Display value": "Impairment medical management",
+      "CodeDefinition": "Impairment medical management",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 66,
+      "Code Display value": "OP Prescribed Generic and Invented Medicines - with no generic alternative available",
+      "CodeDefinition": "OP Prescribed Generic and Invented Medicines - with no generic alternative available",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 67,
+      "Code Display value": "Outpatient Treatment expenses - Primary clinic",
+      "CodeDefinition": "Outpatient Treatment expenses - Primary clinic",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 68,
+      "Code Display value": "Outpatient Treatment expenses - specialized clinic with referral",
+      "CodeDefinition": "Outpatient Treatment expenses - specialized clinic with referral",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 69,
+      "Code Display value": "Outpatient Treatment expenses - specialized clinic without referral",
+      "CodeDefinition": "Outpatient Treatment expenses - specialized clinic without referral",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 7,
+      "Code Display value": "Diagnostic Dental",
+      "CodeDefinition": "Diagnostic Dental.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 70,
+      "Code Display value": "Pediatric vision coverage",
+      "CodeDefinition": "Pediatric vision coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 71,
+      "Code Display value": "Psychiatry coverage",
+      "CodeDefinition": "Psychiatry coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 72,
+      "Code Display value": "Renal transplant",
+      "CodeDefinition": "Renal transplant",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 73,
+      "Code Display value": "Root canal dental coverage",
+      "CodeDefinition": "Root canal dental coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 74,
+      "Code Display value": "Complications arising from treatment of a covered benefit",
+      "CodeDefinition": "Complications arising from treatment of a covered benefit",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 75,
+      "Code Display value": "Congenital anomalies",
+      "CodeDefinition": "Congenital anomalies",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 76,
+      "Code Display value": "Costs of national program for the early examination of newborn to limit impairment",
+      "CodeDefinition": "Costs of national program for the early examination of newborn to limit impairment",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 77,
+      "Code Display value": "Delivery of premature babies",
+      "CodeDefinition": "Delivery of premature babies",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 78,
+      "Code Display value": "Emergency Service coverage",
+      "CodeDefinition": "Emergency Service coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 79,
+      "Code Display value": "Genetic diseases",
+      "CodeDefinition": "Genetic diseases",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 8,
+      "Code Display value": "Periodontics",
+      "CodeDefinition": "Periodontics.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 80,
+      "Code Display value": "Inpatient Medical Coverage",
+      "CodeDefinition": "Inpatient Medical Coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 81,
+      "Code Display value": "Life sustaining and interventions altering medical outcomes",
+      "CodeDefinition": "Life sustaining and interventions altering medical outcomes",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 82,
+      "Code Display value": "Maternity Complications Coverage",
+      "CodeDefinition": "Maternity Complications Coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 83,
+      "Code Display value": "New-born coverage",
+      "CodeDefinition": "New-born coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 84,
+      "Code Display value": "Telemedicinee",
+      "CodeDefinition": "Telemedicine",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 1,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-category",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": 9,
+      "Code Display value": "Restorative",
+      "CodeDefinition": "Restorative.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "approval-limit",
+      "Code Display value": "approval limit",
+      "CodeDefinition": "approval limit",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "benefit",
+      "Code Display value": "Benefit",
+      "CodeDefinition": "Maximum benefit allowable.",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "copay",
+      "Code Display value": "Copayment per service",
+      "CodeDefinition": "Copayment per service",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "copay-maximum",
+      "Code Display value": "Copayment maximum per service",
+      "CodeDefinition": "Copayment maximum per service",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "copay-percent",
+      "Code Display value": "Copayment Percent per service",
+      "CodeDefinition": "Copayment percentage per service",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "deductible",
+      "Code Display value": "Deductible",
+      "CodeDefinition": "Cost to be incurred before benefits are applied",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "medical-primarycare",
+      "Code Display value": "Medical Primary Health Coverage",
+      "CodeDefinition": "Medical Primary Health Coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "pharmacy-dispense",
+      "Code Display value": "Pharmacy Dispense Coverage",
+      "CodeDefinition": "Pharmacy Dispense Coverage",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "room",
+      "Code Display value": "Room",
+      "CodeDefinition": "Type of room",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "vision-contacts",
+      "Code Display value": "Vision Contacts Coverage",
+      "CodeDefinition": "Contact Lenses",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "vision-exam",
+      "Code Display value": "Vision Exam",
+      "CodeDefinition": "Vision Exam",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "vision-glasses",
+      "Code Display value": "Vision Glasses",
+      "CodeDefinition": "Frames and lenses",
+      "Long Description": "NULL"
+    },
+    {
+      "TypeId": 2,
+      "TypeCategory": "Codings",
+      "TypeName": "benefit-type",
+      "Description": "Standard Codings Given By Nphies",
+      "CodeValue": "visit",
+      "Code Display value": "Visit",
+      "CodeDefinition": "Service visit",
+      "Long Description": "NULL"
+    }
+  ]
