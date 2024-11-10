@@ -226,6 +226,10 @@ async def get_chatgroq_response(question, file_type=None):
     
     # Create a conversational flow with message history for context
     flow_messages = [SystemMessage(content="You are a conversational AI assistant.")]
+    # Initialize session state variables
+    if 'chat_history' not in st.session_state:
+        st.session_state['chat_history'] = []  # Initialize chat history as an empty list
+
     for entry in st.session_state['chat_history']:
         flow_messages.append(HumanMessage(content=entry['question']))
         flow_messages.append(AIMessage(content=entry['answer']))
